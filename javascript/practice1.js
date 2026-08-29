@@ -1,4 +1,4 @@
-// console.log("amit");
+ console.log("amit");
 // const name = "amit"
 // const age  = "21"
 // console.log(`my name is ${name} my age is ${age}`)
